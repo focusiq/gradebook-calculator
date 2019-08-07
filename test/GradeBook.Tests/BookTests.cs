@@ -5,8 +5,19 @@ namespace GradeBook.Tests
 {
     public class BookTests
     {
+        // [Fact]
+        // public void TestName()
+        // {
+        //     var book = new Book("Focus");
+
+        //     book.AddGrade(105.1);
+  
+            
+
+        //     Assert.True(isTrue);
+        // }
         [Fact]
-        public void Test1()
+        public void BookCalculatesAverageGrade()
         {
             // arrange
             var book = new Book("");

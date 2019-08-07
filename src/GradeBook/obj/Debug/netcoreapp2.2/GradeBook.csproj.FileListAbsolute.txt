@@ -9,3 +9,14 @@ C:\Users\Focus\Desktop\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook
 C:\Users\Focus\Desktop\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
 C:\Users\Focus\Desktop\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
 C:\Users\Focus\Desktop\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\tutorial-projects\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\tutorial-projects\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\tutorial-projects\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\tutorial-projects\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\tutorial-projects\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\tutorial-projects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
